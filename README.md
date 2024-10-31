@@ -8,13 +8,13 @@ MyBatis-Plus，如其名所示，是MyBatis的一个功能增强工具。它旨�
 
 软件：IntelliJ IDEA 2022.2.3
 
-maven：maven3.8.6
+maven：maven3.1.0
 
-JDK：1.8.0_351
+JDK：1.8.0_144
 
-springboot：2.5.3
+springboot：2.7.8
 
-myBatisPlus：3.3.1
+myBatisPlus：3.5.2
 
 ## 2.1新建springboot项目
 
@@ -30,14 +30,13 @@ idea中新建springboot项目
 <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-boot-starter</artifactId>
-    <version>3.3.1</version>
+    <version>3.5.2</version>
 </dependency>
 
 <!--mysql的依赖-->
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.31</version>
 </dependency>
 ```
 
